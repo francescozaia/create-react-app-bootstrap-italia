@@ -1,8 +1,12 @@
 {
-  "name": "gatto",
+  "name": "create-react-app-bootstrap-italia",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap-italia": "^0.27.5",
+    "jquery": "^3.3.1",
+    "owl.carousel": "^2.3.4",
+    "popper.js": "^1.14.6",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.1"

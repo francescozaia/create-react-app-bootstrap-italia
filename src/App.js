@@ -2,6 +2,11 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import 'bootstrap-italia/dist/css/bootstrap-italia.min.css';
+import './globals'
+import 'owl.carousel'
+import 'bootstrap-italia';
+
 class App extends Component {
   render() {
     return (
